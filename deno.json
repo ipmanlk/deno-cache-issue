@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "mysql": "https://deno.land/x/mysql@v2.12.1/mod.ts",
+    "mongo": "https://deno.land/x/mongo@v0.33.0/mod.ts"
+  }
+}
